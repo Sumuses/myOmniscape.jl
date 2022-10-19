@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+myOmniscape = "1cfd598f-d836-46e8-8eba-64f08e408e0f"
